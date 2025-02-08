@@ -50,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="34" alt="yarn logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -69,7 +67,6 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
@@ -79,7 +76,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tishoneyxdd/tishoneyxdd/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tishoneyxdd/tishoneyxdd/output/snake.svg" />
 </picture>
-###
 
 <br clear="both">
 
@@ -88,4 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tishoneyxdd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=solarized-dark&hide_border=false" height="152" alt="languages graph"  />
 </div>
 
-###
