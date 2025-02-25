@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Shivam Badhopulu and I am a Tech enthusiast exploring software, mobile apps, cloud, and blockchain.<br>Always up for a challenge!</h1>
+<h1 align="left">Hi 👋! My name is Shivam and I am a Tech enthusiast exploring software, mobile apps, cloud, and blockchain.<br>Always up for a challenge!</h1>
 
 ###
 
